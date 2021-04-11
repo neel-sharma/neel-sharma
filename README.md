@@ -4,13 +4,13 @@
 **neel-sharma/neel-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...App Development
-- 🌱 I’m currently learning ...Dart
-- 👯 I’m looking to collaborate on ... Dart
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... neelsharma.dev@gmail.com
-- ⚡ Fun fact: ... CS source 2 is a lie.
+I'm a 3rd year Computer Science student currently pursuing Bachelors. 
+From writing .bat 'viruses' behind school notebooks to engineering my 
+objective for learning computer languages was to automate every 
+repetitive activity that we do again and again daily. 
+After spending almost an year on a new language named 'flutter' with a blurry 
+documentation all I've known about programming is that after 
+learning 'C' language learning any other language 
+is just about having the curiosity to learn. The curiosity to go through every 
+stack overflow reply on a coding problem till the job is done. 
 
