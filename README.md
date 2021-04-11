@@ -15,4 +15,4 @@ learning 'C' language learning any other language
 is just about having the curiosity to learn. The curiosity to go through every 
 stack overflow reply on a coding problem till the job is done. 
 
-###My resume: https://neelsharma.dev
+My resume: https://neelsharma.dev
