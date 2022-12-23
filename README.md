@@ -5,7 +5,6 @@
 **neel-sharma/neel-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm a 3rd year Computer Science student currently pursuing Bachelors. 
 From writing .bat 'viruses' behind school notebooks to engineering my 
 objective for learning computer languages was to automate every 
 repetitive activity that we do again and again daily. 
