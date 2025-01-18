@@ -9,9 +9,5 @@ repetitive activity that we do again and again daily.
 
 More about me: https://neelsharma.dev-->
 
-I am an experienced Flutter developer with 5+ years of hands-on experience building mobile applications for various industries, including social media, fintech, HR, travel, recruitment, healthcare, web, and trading. I've successfully delivered over 30 projects for startups, freelance clients, and both product and service-based companies.
-
-My expertise includes architecting scalable and maintainable Flutter codebases. I have developed a customized architecture approach that blends the strengths of GetX, RxDart, BLoC, and Provider, ensuring optimal performance and flexibility.
-
-Additionally, my strong understanding of Flutter's evolution allows me to adapt quickly to new updates and best practices. I have extensive experience in technical interviewing, having conducted over 100 interviews for developer, senior developer, and mobile lead positions.
+Flutter Developer with 5+ years of expertise in building scalable, high-performance mobile applications for industries such as fintech, healthcare, social media, and trading. Delivered 30+ projects for startups, freelance clients, and enterprises. Combining architectures like MVC, MVVM, and Clean with state management solutions like GetX, RxDart, Riverpod, and BLoC. Proficient in adapting to Flutter updates and conducting technical interviews to support talent acquisition and build strong teams.
 
